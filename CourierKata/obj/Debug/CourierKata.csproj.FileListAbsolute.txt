@@ -1,0 +1,13 @@
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\CourierKata.dll
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\CourierKata.pdb
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.abstractions.dll
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.assert.dll
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.core.dll
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.execution.desktop.dll
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.abstractions.xml
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.assert.xml
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.core.xml
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\bin\Debug\xunit.execution.desktop.xml
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\obj\Debug\CourierKata.csprojResolveAssemblyReference.cache
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\obj\Debug\CourierKata.dll
+c:\users\adewuyi\documents\visual studio 2015\Projects\CourierKata\CourierKata\obj\Debug\CourierKata.pdb
